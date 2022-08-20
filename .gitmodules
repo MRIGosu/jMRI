@@ -1,0 +1,3 @@
+[submodule "jMRIO"]
+	path = jMRIO
+	url = https://github.com/MRIGosu/jMRIO.git
